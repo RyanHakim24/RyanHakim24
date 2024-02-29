@@ -1,7 +1,7 @@
 <h1 align='center'> Data, data, data. I just need data!!! </h1>
 Hi there. My name is Ryan Fadhilah Faizal Hakim, am studying at IKOPIN University - Jatinangor, Sumedang, West Java, Indonesia. My major in Bachelor of Data Science Faculty of Science and Technology. Here I just share my experience about world of Data Science. Stay Sharp.
 
-```
+``` python
 import Data as Knowledge
 ```
 
